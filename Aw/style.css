@@ -8,3 +8,21 @@ box-sizing: border-box;
 background-color: rgb(255, 0, 119);
 color: white;
 }
+.assign-1-shape-4 {
+width:300px;
+margin: 20px auto;
+padding: 20px;
+box-sizing: border-box;
+background-color: rgba(255, 0, 119, 0.5);
+color: white;
+
+}
+
+.assign-1-shape-5 {
+width:300px;
+margin: 20px auto;
+padding: 20px;
+box-sizing: border-box;
+background-color: rgba(255, 0, 119, 0.1);
+color: white;
+}
