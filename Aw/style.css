@@ -1,0 +1,10 @@
+.assign-1-shape-1,
+.assign-1-shape-2,
+.assign-1-shape-3 {
+width:300px;
+margin: 20px auto;
+padding: 20px;
+box-sizing: border-box;
+background-color: rgb(255, 0, 119);
+color: white;
+}
