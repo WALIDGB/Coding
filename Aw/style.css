@@ -26,3 +26,19 @@ box-sizing: border-box;
 background-color: rgba(255, 0, 119, 0.1);
 color: white;
 }
+
+.assign-2-shape-1,
+.assign-2-shape-2,
+.assign-2-shape-3,
+.assign-2-shape-4 {
+    width: 400px;
+    height: 150px;
+    background-image: url("../Images/7730b016423c2b83de263f65c3c05fd6.jpg");
+    padding: 20px;
+    margin: 20px auto;
+
+}
+.assign-2-shape-1 {
+    background-repeat: repeat-y;
+  
+}
